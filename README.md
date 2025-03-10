@@ -1,2 +1,2 @@
 # React-project-tbd
-React project
+E-commerce app
